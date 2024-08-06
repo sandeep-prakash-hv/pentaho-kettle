@@ -1,9 +1,10 @@
-# Repository: Pentaho Data Integration a.k.a Kettle # 
+# Pentaho Data Integration a.k.a Kettle # 
 
-### Version: 10.2
+* Version: 10.2
+* Release Date: August 13, 2024
 
 # License Notice #
-**The License Terms associated with the code in this repository have changed.** The license will shift from **Apache 2.0 to BSL 1.1**. Please review the LICENSE.txt file for details. If you have any questions, please reach out to celicense@pentaho.com.
+**The License Terms associated with the code in this repository have changed starting with Version 10.2.** The license will shift from **Apache 2.0 to BSL 1.1**. Please review the LICENSE.txt file for details. If you have any questions, please reach out to celicense@pentaho.com.
 
 
 ### Project Structure
